@@ -1,0 +1,7 @@
+  {
+    "name": "classaveragecalc",
+    "creator": "lunfi",
+    "description": "enshi did the api stuff im too lazy",
+    "version": "1.0.1",
+    "entry": "index.js"
+  }
